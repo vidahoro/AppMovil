@@ -1,0 +1,19 @@
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/home/HomeViewModel.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.home.HomeViewModel
+edu/unicauca/appsmoviles/dulces_popayan_java2/BuildConfig.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.BuildConfig
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/gallery/GalleryViewModel.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.gallery.GalleryViewModel
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/gallery/GalleryFragment.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.gallery.GalleryFragment
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.gallery.GalleryFragment$1
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/home/HomeFragment.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.home.HomeFragment
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.home.HomeFragment$1
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/slideshow/SlideshowFragment.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.slideshow.SlideshowFragment
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.slideshow.SlideshowFragment$1
+edu/unicauca/appsmoviles/dulces_popayan_java2/MainActivity.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.MainActivity
+edu/unicauca/appsmoviles/dulces_popayan_java2/ui/slideshow/SlideshowViewModel.java
+ edu.unicauca.appsmoviles.dulces_popayan_java2.ui.slideshow.SlideshowViewModel
